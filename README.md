@@ -21,7 +21,9 @@ To use, assuming you have used [AssetRiper](https://github.com/AssetRipper/Asset
 
 Unity should compile and prompt you this window:
 
-![Alt text](imgs\editor.png)
+<p align="center">
+  <img src="imgs/editor.png" alt="animated" />
+</p>
 
 ⚠ You will have to remove all the decompiled code to get rid of unity compilation error and be able to compile the plugin editor ⚠
 
