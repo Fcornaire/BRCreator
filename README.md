@@ -12,7 +12,7 @@ This Unity plugin let you:
 - add/remove checkpoint (basically collider) on the scene
 - export the result to be used in the upcoming [SlopCrew 1.5.0](https://github.com/SlopCrew/SlopCrew/milestone/2) version
 
-you can look at [SlopCrew race-config]("https://github.com/SlopCrew/race-config") to see how a race config look.
+you can look at [SlopCrew race-config](https://github.com/SlopCrew/race-config) to see how a race config look.
 
 To use, assuming you have used [AssetRiper](https://github.com/AssetRipper/AssetRipper) to extract game assets, you will need to :
 
